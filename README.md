@@ -1,5 +1,7 @@
 # aws-lambda-ebs-snapshots
 
+Thanks to Ryan Brown at https://serverlesscode.com/post/lambda-schedule-ebs-snapshot-backups/ for most of this
+
 ## Prepare IAM
 
 **Create the ebs-backup-worker role and attach the trust policy to it:**
