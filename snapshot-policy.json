@@ -16,7 +16,8 @@
       "Action": [
         "ec2:CreateSnapshot",
         "ec2:ModifySnapshotAttribute",
-        "ec2:ResetSnapshotAttribute"
+        "ec2:ResetSnapshotAttribute",
+        "ec2:CreateNetworkInterface"
       ],
       "Resource": ["*"]
     }
